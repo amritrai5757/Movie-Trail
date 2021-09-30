@@ -1,4 +1,4 @@
-Used tmdb api for having all the data about trending,action movies etc.
+Used Tmdb(the movie database) api for having all the data about trending,action movies etc.
 
 Used firebase to host our website.
 
