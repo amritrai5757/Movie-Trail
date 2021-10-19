@@ -1,3 +1,8 @@
+
+
+https://user-images.githubusercontent.com/86003701/137856023-67ba1be8-b422-4e18-a0e3-99de03f8b8e9.mp4
+
+
 A website for watching category-wise movies and their trailers.
 
 Used rest api for communication between client(react app) and server(tmdb server) by using routes(given in documentation of tmdb) which triggers corresponding api endpoint functions which gives the specific data required from tmdb database. 🤍🤍
