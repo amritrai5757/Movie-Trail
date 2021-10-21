@@ -13,3 +13,5 @@ Used movie-trailer server to have trailer URL.🤍🤍
 Used Context api(hook) to avoid prop drilling(passing data from one part to another by going through several other parts that dont require that data). 
 
 The Data returned by the tmdb server is in json format💙💙
+
+Whenever user clicks on a image a trailer is played by the onClick function inside the particular imgid. eg-: imgid(trailerurl,onclick=imgid'strailerurl(setToPlay)).💛💛
