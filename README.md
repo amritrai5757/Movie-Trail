@@ -4,9 +4,9 @@ https://user-images.githubusercontent.com/86003701/138392061-a259cfed-3074-4922-
 
 A website built with React as client & deployed on firebase that helps in picking the perfect movie to watch by showing them in different categories.
 
-Shows trailer from youtube using movie-trailer api/server(npm package) which also uses tmdb database.
-
 Used api endpoints provided by tmdb server for fetching the data from tmdb database.
+
+Shows trailer from youtube using movie-trailer api/server(npm package) which also uses tmdb database.
 
 
 
