@@ -2,13 +2,11 @@
 https://user-images.githubusercontent.com/86003701/138392061-a259cfed-3074-4922-96ba-339ed7339d4e.mp4
 
 
-A website that helps in picking the perfect movie to watch by showing them in different categories using the tmdb database through the api endpoints provided by tmdb.
+A website built with React as client & deployed on firebase that helps in picking the perfect movie to watch by showing them in different categories using the tmdb database through the api endpoints provided by tmdb & by showing them the trailer of movies from youtube .
 
-It also shows the trailer for the movies from youtube .
+Used Tmdb server's endpoints for fetching the data from their database.
 
-• Built a React app as frontend/client(deployed on firebase).
 
-• Used Tmdb server's endpoints for fetching the data from their database.
 
 # More Details-:
 Used rest api for communication between client(react app) and server(tmdb server) by using routes(given in documentation of tmdb) which triggers corresponding api endpoint functions which gives the specific data required from tmdb database ✨✨
